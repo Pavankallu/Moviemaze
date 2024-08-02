@@ -1,0 +1,2 @@
+
+Moviemaze is a responsive movie website built with React and powered by the TMDB API to fetch data. The website includes a Home Page featuring popular movie recommendations, a TV Shows Page highlighting top TV shows, an Upcoming Page displaying upcoming movie releases, and a Top Rated Page showcasing top-rated movies. It also contains a navigation bar, search bar, and a footer for easy navigation and a complete user experience.
